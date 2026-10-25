@@ -1,5 +1,7 @@
 # Clarity Hub Connector
 
+<img src="./clarity-hub-approved-logo.png" alt="Clarity Hub" width="140" height="140">
+
 Connect an AI assistant to your authorized Clarity Hub account to work with projects, WhatsApp conversations, tasks and documents.
 
 **Requires an existing approved Clarity Hub account.** Adding the connector does not create a Hub account, enroll a company, or grant additional access. Contact Clarity Construction to request access. Availability in an AI application also depends on that application's plan and organization settings.
