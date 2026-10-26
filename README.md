@@ -57,7 +57,7 @@ OAuth connects the assistant to a Hub account. The server advertises `hub` for a
 
 Only connect AI applications you trust. Information requested through a connector is returned to the AI application you are using, which has its own privacy and account settings. Do not give anyone your own login or share a real employee's account for testing.
 
-Read the [Clarity Hub privacy policy](https://hub.clarity-construction.com/privacy). For questions about account access, data handling, deletion or a connected application's access, contact [chris@clarity-construction.com](mailto:chris@clarity-construction.com).
+Read the [Clarity Hub service terms](https://hub.clarity-construction.com/terms) and [privacy policy](https://hub.clarity-construction.com/privacy). For questions about account access, data handling, deletion or a connected application's access, contact [chris@clarity-construction.com](mailto:chris@clarity-construction.com).
 
 ## Disconnect or troubleshoot
 
